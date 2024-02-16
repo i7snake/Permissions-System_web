@@ -1,3 +1,9 @@
+# Permissions-System_web
+### 权限管理系统 可以实现用户差异化权限管理
+### 基于前端核心动态路由权限思想而实现的
+### 系统前端web 
+#### 接口路径 service文件夹 config文件
+
 # web
 
 ## Project Setup
@@ -23,7 +29,4 @@ npm run build
 ```sh
 npm run lint
 ```
-# Permissions-System_web
-权限管理系统 用以用户实现差异化权限管理
-基于前端核心动态路由权限思想而实现的
-这是前端web 
+
